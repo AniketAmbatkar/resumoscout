@@ -15,6 +15,6 @@ bokeh
 streamlit_option_menu
 wheel
 pypdf2
-python -m spacy download en_core_web_lg
-python -m spacy download en_core_web_sm
+en_core_web_lg
+en_core_web_sm
 matplotlib
