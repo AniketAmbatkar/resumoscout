@@ -11,10 +11,6 @@ nltk.download('stopwords')
 spacy.load('en_core_web_sm')
 from bokeh.models.widgets import Div
 from streamlit_option_menu import option_menu
-from st_on_hover_tabs import on_hover_tabs
-import psycopg2
-import os
-import sys
 import pandas as pd
 import base64, random
 import time, datetime
